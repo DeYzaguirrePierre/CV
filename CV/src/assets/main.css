@@ -1,0 +1,35 @@
+.green-bg {
+  @apply 
+  bg-green-200
+  dark:bg-green-800
+}
+.green-draw {
+  @apply 
+  bg-green-700 
+  dark:bg-green-300;
+}
+.green-link {
+  @apply 
+  text-green-700 hover:text-green-900
+  dark:text-green-300 dark:hover:text-green-100;
+}
+.green-text-first {
+  @apply 
+  text-green-900
+  dark:text-green-100;
+}
+.green-text-second {
+  @apply 
+  text-green-800
+  dark:text-green-200;
+}
+.green-text-third {
+  @apply 
+  text-green-700
+  dark:text-green-300;
+}
+.green-btn {
+  @apply 
+  bg-green-700 hover:bg-green-900
+  dark:bg-green-500 dark:hover:bg-green-300;
+}
