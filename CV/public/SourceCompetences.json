@@ -1,0 +1,50 @@
+[
+    { 
+        "id": 1, 
+        "name": "HTML5 / CSS3", 
+        "level": 95, 
+        "icon": "fab fa-html5" 
+    },
+    {
+        "id": 2, 
+        "name": "JavaScript", 
+        "level": 90, 
+        "icon": "fab fa-js-square" 
+    },
+    { 
+        "id": 3, 
+        "name": "Vue.js", 
+        "level": 85, 
+        "icon": "fab fa-vuejs" 
+    },
+    { 
+        "id": 4, 
+        "name": "React", 
+        "level": 80, 
+        "icon": "fab fa-react" 
+    },
+    { 
+        "id": 5, 
+        "name": "Node.js", 
+        "level": 75, 
+        "icon": "fab fa-node-js" 
+    },
+    { 
+        "id": 6, 
+        "name": "PHP", 
+        "level": 70, 
+        "icon": "fab fa-php" 
+    },
+    { 
+        "id": 7, 
+        "name": "SQL", 
+        "level": 75, 
+        "icon": "fas fa-database" 
+    },
+    { 
+        "id": 8, 
+        "name": "Git", 
+        "level": 85, 
+        "icon": "fab fa-git-alt" 
+    }
+]

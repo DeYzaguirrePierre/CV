@@ -1,7 +1,12 @@
 .green-bg {
   @apply 
+  bg-green-100
+  dark:bg-green-900;
+}
+.green-bg-ext {
+  @apply 
   bg-green-200
-  dark:bg-green-800
+  dark:bg-green-800;
 }
 .green-draw {
   @apply 
@@ -32,4 +37,9 @@
   @apply 
   bg-green-700 hover:bg-green-900
   dark:bg-green-500 dark:hover:bg-green-300;
+}
+.green-bar-out {
+  @apply 
+  bg-green-900
+  dark:bg-green-100;
 }

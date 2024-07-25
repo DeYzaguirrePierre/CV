@@ -1,7 +1,7 @@
 <template>
-  <footer class="green-bg py-4">
+  <footer class="green-bg-ext py-4">
           <div class="container mx-auto text-center">
-              <a href="/cv.pdf" download class="green-btn text-white font-bold py-2 px-4 rounded">
+              <a href="/cv.pdf" download class="green-btn font-bold py-2 px-4 rounded">
                   Télécharger le CV
               </a>
           </div>
