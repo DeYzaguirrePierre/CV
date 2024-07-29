@@ -12,8 +12,8 @@
 
 <script setup>
 import { RouterView } from 'vue-router'
-import NavBar from './components/NavBar.vue'
-import FooterCV from './components/FooterCV.vue'
+import NavBar from '@/components/NavBar.vue'
+import FooterCV from '@/components/FooterCV.vue'
 </script>
 
 <style scoped>

@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "title": "Ceci est un test",
+      "description": "Plateforme e-commerce complète avec panier, paiement et gestion des commandes.",
+      "image": "https://example.com/ecommerce-vue.jpg",
+      "technologies": ["Vue.js", "Vuex", "Node.js", "Express", "MongoDB"],
+      "github": "https://github.com/alexdubois/ecommerce-vue",
+      "demo": "https://ecommerce-vue-demo.alexdubois.com"
+    },
+    {
+      "id": 2,
+      "title": "Dashboard Analytics",
+      "description": "Tableau de bord interactif pour visualiser les données d'analytics en temps réel.",
+      "image": "https://example.com/dashboard-analytics.jpg",
+      "technologies": ["React", "D3.js", "Firebase", "Material-UI"],
+      "github": "https://github.com/alexdubois/analytics-dashboard",
+      "demo": "https://analytics-dashboard-demo.alexdubois.com"
+    },
+    {
+      "id": 3,
+      "title": "Application de Chat en Temps Réel",
+      "description": "Application de messagerie instantanée avec salons de discussion et messages privés.",
+      "image": "https://example.com/chat-app.jpg",
+      "technologies": ["Socket.io", "Express", "MongoDB", "React"],
+      "github": "https://github.com/alexdubois/realtime-chat-app",
+      "demo": "https://chat-app-demo.alexdubois.com"
+    },
+    {
+      "id": 4,
+      "title": "API RESTful de Gestion de Tâches",
+      "description": "API backend pour une application de gestion de tâches avec authentification JWT.",
+      "image": "https://example.com/task-api.jpg",
+      "technologies": ["Node.js", "Express", "MongoDB", "JWT"],
+      "github": "https://github.com/alexdubois/task-management-api",
+      "demo": "https://task-api-demo.alexdubois.com"
+    },
+    {
+      "id": 5,
+      "title": "Portfolio Interactif",
+      "description": "Site web personnel avec animations et effets visuels avancés.",
+      "image": "https://example.com/interactive-portfolio.jpg",
+      "technologies": ["HTML5", "CSS3", "JavaScript", "GSAP"],
+      "github": "https://github.com/alexdubois/interactive-portfolio",
+      "demo": "https://portfolio.alexdubois.com"
+    },
+    {
+      "id": 6,
+      "title": "Application Météo Progressive",
+      "description": "PWA pour consulter la météo avec fonctionnalités hors ligne.",
+      "image": "https://example.com/weather-pwa.jpg",
+      "technologies": ["React", "PWA", "Service Workers", "API OpenWeatherMap"],
+      "github": "https://github.com/alexdubois/weather-pwa",
+      "demo": "https://weather-pwa-demo.alexdubois.com"
+    }
+  ]

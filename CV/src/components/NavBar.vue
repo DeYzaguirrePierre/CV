@@ -28,9 +28,12 @@
           <li>
             <RouterLink to="/competences" class="green-link cursor-pointer">Compétences</RouterLink>
           </li>
-          <li><a @click="navigateTo('/experiences')" class="green-link cursor-pointer">Expériences</a></li>
-          <li><a @click="navigateTo('/projets')" class="green-link cursor-pointer">Projets</a></li>
-          <li><a @click="navigateTo('/contact')" class="green-link cursor-pointer">Contact</a></li>
+          <li>
+            <RouterLink to="/projets" class="green-link cursor-pointer">Projets</RouterLink>
+          </li>
+          <li>
+            <RouterLink to="/contact" class="green-link cursor-pointer">Contact</RouterLink>
+          </li>
         </ul>
       </nav>
     </transition>
