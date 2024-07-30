@@ -23,4 +23,5 @@
 .fade-in {
   animation: fadeIn 1s ease-out;
 }
+
 </style>

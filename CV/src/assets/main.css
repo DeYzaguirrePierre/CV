@@ -1,6 +1,10 @@
 .green-bg {
   @apply 
+  text-opacity-10
+  text-green-700
   bg-green-100
+  dark:text-opacity-10
+  dark:text-green-300
   dark:bg-green-900;
 }
 .green-bg-ext {
@@ -35,6 +39,8 @@
 }
 .green-btn {
   @apply 
+  text-white
+  dark:text-white
   bg-green-700 hover:bg-green-900
   dark:bg-green-500 dark:hover:bg-green-300;
 }

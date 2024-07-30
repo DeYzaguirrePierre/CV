@@ -2,7 +2,7 @@
     { 
         "id": 1, 
         "name": "HTML5 / CSS3", 
-        "level": 75, 
+        "level": 70, 
         "icon": "fab fa-html5" 
     },
     {
@@ -14,7 +14,7 @@
     { 
         "id": 3, 
         "name": "Vue.js", 
-        "level": 50, 
+        "level": 70, 
         "icon": "fab fa-vuejs" 
     },
     { 
